@@ -1,0 +1,64 @@
+body{
+    margin: auto;
+    padding: 60px;
+    
+}
+
+h1{
+    font-size: 30px;
+    font-family: "DM Sans";
+}
+
+form{
+    margin-bottom: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+label {
+    font-family: "Quicksand";
+    color: #6b4b3e;
+    display: inline;
+    margin: 10px 0 5x;
+    font-size: 15px;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+textarea{
+    width: 100%;
+    padding: 25px;
+    border: 1px solid black;
+    box-sizing: border-box;
+    transition: .3s;
+}
+
+input[type="text"] {
+    width: 20%;
+    padding: 5px;
+}
+
+.cookie_liner {
+    padding-top: 2px;
+}
+
+legend {
+   font-size: 24px;
+   font-family: "DM Sans";
+}
+
+button {
+    padding: 10px 15px;
+    border: 2px tan;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 10px;   
+}
+
+button:hover{
+    background-color: #e4d6a7;
+    cursor: pointer;
+    
+}

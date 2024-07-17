@@ -1,0 +1,70 @@
+
+body {
+    margin: auto;
+    padding: 40px;
+    
+}
+
+a{
+    text-decoration-line: none;
+    color: #6b4b3e ;
+    font-weight: bold;
+}
+
+a:hover{
+    color: tan;
+    text-decoration: underline;
+    
+}
+
+h1{
+    font-size: 40px;
+    text-align: center;
+}
+h1, h2{
+    font-family: "DM Sans";
+    color: #6b4b3e;
+}
+
+h3, li, p, a {
+    font-family: "Quicksand";
+}
+
+li{
+    list-style: circle;
+    font-style:oblique;
+}
+
+header, footer {
+    background-color:tan;
+}
+
+footer{
+    padding: 6px;
+}
+
+header > p {
+    font-size: 17px;
+    text-align: center;
+}
+
+#recipe {
+    border: groove, #6b4b3e, 5px;
+    padding: 10px;
+    background-color: #e4d6a7;
+}
+
+.images {
+    margin-right: 28px;
+}
+
+button {
+    border-radius: 5px;
+    padding: 5px;
+}
+
+button:hover{
+    background-color: #e4d6a7;
+    cursor: pointer;
+    
+}
